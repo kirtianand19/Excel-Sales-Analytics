@@ -13,7 +13,7 @@ Under Distributor: AtliQ sells products to major distributors. For example, in C
 
     **1.** Create a [Customer Performance Report]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Customer%20Performance%20Report.pdf
 
-    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20- %20Market%20Performance%20vs%20Target.pdf
+    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Market%20Performance%20vs%20Target.pdf
   
     **3.** Find the [Top 10 Products] based on the percentage increase in their net sales from 2020 to 2021: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Top%2010%20Products.pdf
 
