@@ -42,7 +42,7 @@ Under Distributor: AtliQ sells products to major distributors. For example, in C
 
     **3.** Create Profit and Loss (P&L) reports by [Markets]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20P%20%26%20L%20by%20Year%20(Markets).pdf
 
-    **4.** Generated a report for Gross Margin% by quarters [Sub Zone]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Gross%20margin%25%20(Sub%20Zone).pdf
+    **4.** Generate a report for Gross Margin% by quarters [Sub Zone]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Gross%20margin%25%20(Sub%20Zone).pdf
 
 - **Purpose of finance analytics:** Assessing financial performance, aiding decision-making, and fostering effective communication with stakeholders.
 
