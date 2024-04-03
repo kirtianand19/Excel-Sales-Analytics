@@ -24,4 +24,20 @@ Under Distributor: AtliQ sells products to major distributors. For example, in C
     **6.** Find the products that [Atliq began selling in 2021]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20New%20Product%202021.pdf
 
     **7.** Find the [the top 5 countries] in terms of net sales in 2021: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Top%205%20Countries%20-%20Net%20Sales%202021.pdf
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
   
