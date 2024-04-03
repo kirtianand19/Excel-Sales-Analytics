@@ -11,17 +11,17 @@ Under Distributor: AtliQ sells products to major distributors. For example, in C
 
 - **Project objective:** 
 
-    **1.** Create a [Customer Performance Report]. https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Customer%20Performance%20Report.pdf
+    **1.** Create a [Customer Performance Report]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Customer%20Performance%20Report.pdf
 
-    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets].
+    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20- %20Market%20Performance%20vs%20Target.pdf
   
-    **3.** Find the [Top 10 Products] based on the percentage increase in their net sales from 2020 to 2021.
+    **3.** Find the [Top 10 Products] based on the percentage increase in their net sales from 2020 to 2021: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Top%2010%20Products.pdf
 
-    **4.** Generate a [Divison Report] to present the net sales data for 2020 and 2021, along with the growth percentage.
+    **4.** Generate a [Divison Report] to present the net sales data for 2020 and 2021, along with the growth percentage: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Division%20Report.pdf
   
-    **5.** Find the products that are ranked in the [top 5 and bottom 5] in terms of quantity sold.
+    **5.** Find the products that are ranked in the [top 5 and bottom 5] in terms of quantity sold: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Top%205%20and%20Bottom%205%20Products.pdf
 
-    **6.** Find the products that [Atliq began selling in 2021].
+    **6.** Find the products that [Atliq began selling in 2021]: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20New%20Product%202021.pdf
 
-    **7.** Find the [the top 5 countries] in terms of net sales in 2021.
+    **7.** Find the [the top 5 countries] in terms of net sales in 2021: https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Top%205%20Countries%20-%20Net%20Sales%202021.pdf
   
