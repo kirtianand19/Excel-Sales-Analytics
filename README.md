@@ -11,7 +11,7 @@ Under Distributor: AtliQ sells products to major distributors. For example, in C
 
 - **Project objective:** 
 
-    **1.** Create a [Customer Performance Report].
+    **1.** Create a [Customer Performance Report]. https://github.com/kirtianand19/Excel-Sales-Finance-Analytics/blob/main/AtliQ%20Hardwares%20-%20Customer%20Performance%20Report.pdf
 
     **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets].
   
